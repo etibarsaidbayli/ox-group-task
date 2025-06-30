@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './Login.module.css';
+import styles from "./Login.module.css";
 
 import {useNavigate} from 'react-router-dom';
 import type { FormProps } from 'antd';

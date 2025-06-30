@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {JSX} from 'react';
 import { Navigate, useRoutes } from 'react-router-dom';
 import Login from "../pages/Login";
 import Products from '../pages/Products';
